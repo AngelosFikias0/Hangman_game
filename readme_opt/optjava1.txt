@@ -1,7 +1,0 @@
-opt:
-
-1) clean code
-2) more words (maybe web input / random)
-3) tries depending on words
-4) ui
-5) more stats
