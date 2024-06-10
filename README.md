@@ -1,5 +1,5 @@
 # Hangman.java
--Overview
+-Overview:
 This Hangman game is implemented in Java and uses a predefined set of words as its dictionary. The game includes a simple menu for starting the game, printing statistics, and exiting the game.
 
 Features
