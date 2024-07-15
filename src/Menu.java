@@ -10,6 +10,9 @@ public class Menu {
         do {
             System.out.print("MAIN MENU\n- Start a new Game (N)\n- Statistics (S)\n- Exit (E)\nPlease enter your choice: ");
             ans = console.next().toUpperCase().trim();
+            if(!isValidChoice(ans)) {
+            	System.out.println("Please enter a valid choice! \n");
+            }
         } while (!isValidChoice(ans));
         return ans;
     }
