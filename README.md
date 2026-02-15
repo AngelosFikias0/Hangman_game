@@ -1,4 +1,4 @@
-# Hangman (Java)
+# Hangman
 
 > **A classic word-puzzle engine built in Java, featuring persistent session statistics and dynamic guessing mechanics.**
 
