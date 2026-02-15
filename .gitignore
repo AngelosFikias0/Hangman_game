@@ -1,15 +1,15 @@
-# IntelliJ IDEA project files
-.idea/
-*.iml
+# Compiled Java classes
+bin/
 
-# Build output
-out/
-build/
+# Eclipse files
+.classpath
+.project
+.settings/
 
 # Logs and temp files
 *.log
 *.tmp
 
-# os files
+# OS files
 .DS_Store
 Thumbs.db
